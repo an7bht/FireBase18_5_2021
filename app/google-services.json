@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927434783982",
+    "project_id": "smile-f3dff",
+    "storage_bucket": "smile-f3dff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927434783982:android:b923fa7aca428bc6c787ff",
+        "android_client_info": {
+          "package_name": "com.example.firebase18_5_2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927434783982-00johrugmjhsi96g3v9od4ql7hsrr85r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi9IK21nQLNM1wrI7gFuTaxfUOiys_J08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927434783982-00johrugmjhsi96g3v9od4ql7hsrr85r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
